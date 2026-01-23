@@ -1,16 +1,37 @@
-## Hi there 👋
+## Привет 👋
+Я начинающий Java-разработчик, люблю изучать новые технологии 
+и постоянно учиться новому.  
+---
 
-<!--
-**Hulkaach/Hulkaach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Мои навыки
 
-Here are some ideas to get you started:
+- Java 17/21
+- Maven и Gradle
+- REST API и Spring Boot
+- SQL (PostgreSQL)
+- Git и GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Мои проекты
+
+### Telegram-бот Pomodoro
+📌 **Java, Gradle**  
+Умный бот для планирования времени с таймером, уведомлениями и статистикой  
+[Смотреть код](https://github.com/Hulkaach/PomodoroBot)
+
+### Анализ финансов
+📌 **Java, консольное приложение**  
+Программа для анализа транзакций: фильтрация, группировка, агрегация и сохранение данных  
+[Смотреть код](https://github.com/Hulkaach/FinTracker)
+
+### Телеграм-бот для поиска вакансий
+📌 **Java, Gradle**  
+Инструмент для поиска вакансий на сайте hh.ru  
+[Смотреть код](https://github.com/Hulkaach/VacancyTrackerBot)
+
+---
+
+## 📫 Связаться со мной
+
+- Telegram: [@hulkaach](https://t.me/@hulkaach)
