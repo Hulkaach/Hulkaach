@@ -34,4 +34,4 @@
 
 ## 📫 Связаться со мной
 
-- Telegram: [@hulkaach](https://t.me/hulkaach_service)
+- Telegram: [@hulkaach_service](https://t.me/hulkaach_service)
